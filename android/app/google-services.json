@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850115765836",
+    "project_id": "finale-c1cbb",
+    "storage_bucket": "finale-c1cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850115765836:android:f9d2df161cf0142f55f6e9",
+        "android_client_info": {
+          "package_name": "com.example.finale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTNVdYcQZgL47D26HXiW7XRb-2H1Ic84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
